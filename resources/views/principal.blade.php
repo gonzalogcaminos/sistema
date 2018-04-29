@@ -42,16 +42,16 @@
                 </a>
                 <div class="dropdown-menu dropdown-menu-right">
                     <div class="dropdown-header text-center">
-                        <strong>Notificaciones</strong>
+                        <strong>Notificaciones Proximamente =)</strong>
                     </div>
-                    <a class="dropdown-item" href="#">
+       {{--               <a class="dropdown-item" href="#">
                         <i class="fa fa-envelope-o"></i> Ingresos
                         <span class="badge badge-success">3</span>
                     </a>
                     <a class="dropdown-item" href="#">
                         <i class="fa fa-tasks"></i> Ventas
                         <span class="badge badge-danger">2</span>
-                    </a>
+                    </a>  --}}
                 </div>
             </li>
             <li class="nav-item dropdown">
